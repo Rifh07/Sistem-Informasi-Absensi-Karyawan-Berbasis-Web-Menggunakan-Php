@@ -1,4 +1,4 @@
-# Sistem-Informasi-Absensi-Karyawan-Berbasis-Web-Dengan-Php
+# Sistem Informasi Absensi Karyawan Berbasis Web Dengan Menggunakan Bahasa Pemrograman PHP
 Repository ini dibuat untuk sharing ilmu
 
 ## Building on Windows
